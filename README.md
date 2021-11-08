@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoalaScripts
 - 👀 I’m interested in Python & Powershell scripting
 - 🌱 I’m currently learning All kinds of stuff !
-- 💞️ I’m looking to collaborate on fun project
+- 💞️ I’m looking to collaborate on fun projects
 
 <!---
 KoalaScripts/KoalaScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
