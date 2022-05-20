@@ -1,7 +1,7 @@
 # Welcome to the KoalaBot Documentation ! 
 ![KoalaBot](/Docs/Koala%20Robot%205%202021.png)
 
-The KoalaBot is a simple to use discord bot created with the mean purpose to create and host Runescape events. 
+The KoalaBot is a simple to use discord bot created with the main purpose to create and host Runescape events. 
 
 
 ## 1. Installation
