@@ -7,7 +7,7 @@ The KoalaBot is a simple to use discord bot created with the mean purpose to cre
 ## 1. Installation
 
 Surf to the installation link and follow the instructions to add the bot to the discord server. 
-[Installation Link](https://discord.com/api/oauth2/authorize?client_id=961723470843088956&permissions=1634705340480&scope=bot%20applications.commands)
+[Installation Link](https://discord.com/api/oauth2/authorize?client_id=878985424419307570&permissions=534723951680&scope=bot%20applications.commands)
 
 ## 2. Initial Setup
 
