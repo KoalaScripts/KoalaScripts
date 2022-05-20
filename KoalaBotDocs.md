@@ -16,7 +16,7 @@ If you wish to have this name changed by a @group please use the /add_rolleto_bo
 
 ## 3. Command info
 
-**- [x] /add_roleto_boss**
+- [x] **/add_roleto_boss**
 
 The command allows you to add a @role to be assigned to a specific boss. This group will be shouted at upon event creation
 
@@ -24,7 +24,7 @@ The command allows you to add a @role to be assigned to a specific boss. This gr
 - boss : Select the boss you wish to add a role to shout upon creation
 - role : Select the role you wish to be shouted
 
-**- [x] /createevent**
+- [x] **/createevent**
 
 This command allows anyone to start an event. 
 
@@ -48,7 +48,7 @@ To start the event press the finalise button.
 You will now recieve a popup with a list of roles and the names of the people that signed up for the role. 
 Remove or add members for each role . Each member needs to be seperated by a **,**
 
-**- [x] /createevent_hosts**
+- [x] **/createevent_hosts**
 
 This command is meant if you wish certain people (hosts) to create and finalise the events. 
 Make sure you specify the role of the events in the /add_hostrole command ! Otherwise no one will be able to finalise the events.
@@ -77,7 +77,7 @@ Remove or add members for each role . Each member needs to be seperated by a **,
 
 The hosted events will be automaticly cleaned up by the bot 15minutes after the event. 
 
-**- [x] /add_hostrole**
+- [x] **/add_hostrole**
 
 Add the role of the hosts you wish to be able to Finalise events. 
 
